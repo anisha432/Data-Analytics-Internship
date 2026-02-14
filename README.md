@@ -21,3 +21,4 @@ This repository contains all projects completed during my Data Analytics Interns
 - Seaborn
 - Scikit-learn
 - NLP
+-all libraries
